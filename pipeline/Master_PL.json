@@ -103,6 +103,10 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
+					"pipeline": {
+						"referenceName": "PL_orders",
+						"type": "PipelineReference"
+					},
 					"waitOnCompletion": true
 				}
 			},
