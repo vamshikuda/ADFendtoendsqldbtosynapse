@@ -1,5 +1,5 @@
 {
-	"name": "dataflow1_discounts",
+	"name": "dataflow_discounts",
 	"properties": {
 		"type": "MappingDataFlow",
 		"typeProperties": {

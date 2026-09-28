@@ -1,5 +1,5 @@
 {
-	"name": "PL_cust",
+	"name": "PL_CUST",
 	"properties": {
 		"activities": [
 			{
@@ -16,7 +16,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"dataflow": {
-						"referenceName": "dataflow1_cust",
+						"referenceName": "dataflow_cust",
 						"type": "DataFlowReference"
 					},
 					"compute": {

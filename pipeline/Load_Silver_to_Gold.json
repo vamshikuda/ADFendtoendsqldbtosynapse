@@ -1,5 +1,5 @@
 {
-	"name": "PL_EMP",
+	"name": "Load_Silver_to_Gold",
 	"properties": {
 		"activities": [
 			{
@@ -16,7 +16,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"dataflow": {
-						"referenceName": "dataflow_emp",
+						"referenceName": "dataflow_Final",
 						"type": "DataFlowReference"
 					},
 					"compute": {
