@@ -6,7 +6,7 @@
 			"sources": [
 				{
 					"dataset": {
-						"referenceName": "DS_bronzedata",
+						"referenceName": "DS_CustSourcedataset",
 						"type": "DatasetReference"
 					},
 					"name": "source1"
